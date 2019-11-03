@@ -25,7 +25,8 @@ class InteractiveRecord
       self.send("#{property}=", value) #ex: @name = name
     end
   end  
-      
+     
+  def  
       
   
   
