@@ -5,5 +5,5 @@ require 'interactive_record.rb'
 class Student < InteractiveRecord
 
 self.column_names.eac do |col_name|
-  col_name
+  attr_accessorcol_name
 end
