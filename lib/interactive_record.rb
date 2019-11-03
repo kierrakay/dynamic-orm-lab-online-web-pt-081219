@@ -57,6 +57,6 @@ end
 def self.find_by 
 
 
-
+end
   
 end
